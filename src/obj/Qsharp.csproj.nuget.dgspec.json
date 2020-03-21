@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj": {}
+    "/home/gopi/qml/MSFT_workshop_QC/src/Qsharp.csproj": {}
   },
   "projects": {
-    "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj": {
+    "/home/gopi/qml/MSFT_workshop_QC/src/Qsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj",
+        "projectUniqueName": "/home/gopi/qml/MSFT_workshop_QC/src/Qsharp.csproj",
         "projectName": "Qsharp",
-        "projectPath": "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj",
+        "projectPath": "/home/gopi/qml/MSFT_workshop_QC/src/Qsharp.csproj",
         "packagesPath": "/home/gopi/.nuget/packages/",
-        "outputPath": "/home/gopi/qml/MSFT_workshop_QC/Qsharp/obj/",
+        "outputPath": "/home/gopi/qml/MSFT_workshop_QC/src/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gopi/.nuget/NuGet/NuGet.Config"
