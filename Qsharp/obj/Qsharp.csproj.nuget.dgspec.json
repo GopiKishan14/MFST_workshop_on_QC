@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj": {}
+  },
+  "projects": {
+    "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj",
+        "projectName": "Qsharp",
+        "projectPath": "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj",
+        "packagesPath": "/home/gopi/.nuget/packages/",
+        "outputPath": "/home/gopi/qml/MSFT_workshop_QC/Qsharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gopi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Quantum.CsharpGeneration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.10.2002.2610, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            },
+            "Microsoft.Quantum.QSharp.Core": {
+              "target": "Package",
+              "version": "[0.10.2002.2610, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.Quantum.Runtime.Core": {
+              "target": "Package",
+              "version": "[0.10.2002.2610, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            },
+            "Microsoft.Quantum.Standard": {
+              "target": "Package",
+              "version": "[0.10.2002.2610, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
