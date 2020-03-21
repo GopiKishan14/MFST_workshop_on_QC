@@ -1,2 +1,35 @@
-# MFST_workshop_on_QC
-This repository consist of implementations of several quantum algorithms in Q#.
+# Microsoft Workshop on Quantum Computing
+
+This repository consists of implementation (in Q#) of several quantum algorithms discussed in the workshop.
+
+## About
+
+## Installation Guideline
+Install the Microsoft Quantum Development Kit (QDK). Complete detail at Microsoft [Doc](https://docs.microsoft.com/en-us/quantum/install-guide/).
+The QDK is available for multiple development environments.
+* Install Q# for C#
+* Install Q# for Python
+* Install Q# for Jupyter Notebooks
+
+This repository uses Q# for C# in VS Code for implementation of Quantum Algorithms.
+
+## Dir structure
+* Hello_World
+    - A Q# + python based hello world program.
+
+* Qsharp 
+    - A Q# + c# based implementations.
+    - It contains all the code and simulator of the Q. Algorithms.
+    * Driver.cs
+      - This is the simulator for Qubit manipulation.
+    * Program.qs
+      - It contains all the algorithms.
+    * shor.cpp
+      - A classical implematation of shor algorithm for comparison with quantum version.
+* QC Lecture Notes
+  
+
+## Quantum Algorithms
+
+
+## Acknowledgement
