@@ -33,5 +33,16 @@ This repository uses Q# for C# in VS Code for implementation of Quantum Algorith
 
 ## Quantum Algorithms
 
+* Deutsch's Algorithm
+* Deutsch-Jozsa
+* Simon's Algorithm
+* Grover's Algorithm
+
+#### Other Implementations
+* Single Qubit Measurement
+* Multi Qubit Measurement
+* Half Adder
 
 ## Acknowledgement
+
+This all work has been accomplished under the course "IPH-305: Introduction to Quantum Computing and Quantum Programming in Q#" in the supervision of instructor Prof. Ajay Wasan, Department of Physics, IIT Roorkee.
