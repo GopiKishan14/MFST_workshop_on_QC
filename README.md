@@ -17,9 +17,11 @@ This repository uses Q# for C# in VS Code for implementation of Quantum Algorith
 * Hello_World
     - A Q# + python based hello world program.
 
+```
+ A Q# + c# based implementations.
+ It contains all the code and simulator of the Q. Algorithms.
+```
 * Qsharp 
-    - A Q# + c# based implementations.
-    - It contains all the code and simulator of the Q. Algorithms.
     * Driver.cs
       - This is the simulator for Qubit manipulation.
     * Program.qs
