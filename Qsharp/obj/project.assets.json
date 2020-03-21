@@ -6064,11 +6064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gopi/qml/MSFT_workshop_QC/src/Qsharp.csproj",
+      "projectUniqueName": "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj",
       "projectName": "Qsharp",
-      "projectPath": "/home/gopi/qml/MSFT_workshop_QC/src/Qsharp.csproj",
+      "projectPath": "/home/gopi/qml/MSFT_workshop_QC/Qsharp/Qsharp.csproj",
       "packagesPath": "/home/gopi/.nuget/packages/",
-      "outputPath": "/home/gopi/qml/MSFT_workshop_QC/src/obj/",
+      "outputPath": "/home/gopi/qml/MSFT_workshop_QC/Qsharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gopi/.nuget/NuGet/NuGet.Config"
