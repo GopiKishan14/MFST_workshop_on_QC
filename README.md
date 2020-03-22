@@ -27,7 +27,7 @@ This repository uses Q# for C# in VS Code for implementation of Quantum Algorith
     * Program.qs
       - It contains all the algorithms.
     * shor.cpp
-      - A classical implematation of shor algorithm for comparison with quantum version.
+      - A classical implematation of shor's algorithm for comparison with quantum version.
 * QC Lecture Notes
   
 
